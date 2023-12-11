@@ -6,13 +6,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kritan19&label=Profile%20views&color=0e75b6&style=flat" alt="kritan19" /> </p>
 
-
-
 <p align="left"> <a href="https://twitter.com/13kritzz" target="blank"> <img src="https://img.shields.io/twitter/follow/13kritzz?logo=twitter&style=for-the-badge" alt="13kritzz" /></a> </p>
 
 - 🌱 I’m currently learning **The Odin project[Full Stack]**
 
-- 👨‍💻 All of my projects are available at [https://www.kritannepal.com.np/](https://www.kritannepal.com.np/)
+- 👨‍💻  My Portfolio website is  [https://www.kritannepal.com.np/](https://www.kritannepal.com.np/)
 
 - 📫 How to reach me **nepalkritan47@gmail.com**
 
