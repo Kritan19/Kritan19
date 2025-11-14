@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning :**The Odin project[Full Stack]**
 
-- 👨‍💻 My Portfolio website is :  [https://kritan19.github.io/Portfolio_website/](https://kritan19.github.io/Portfolio_website/)
+- 👨‍💻 My Portfolio website is :  [http://www.kritannepal.com.np//](http://www.kritannepal.com.np/)
 
 - 📫 How to reach me : **nepalkritan47@gmail.com**
 
